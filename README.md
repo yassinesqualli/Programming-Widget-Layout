@@ -50,7 +50,7 @@ int main(int argc, char* argv[])
 ```
 This will show an empty window. Your goal is to modify the code in order to display the following form:
 
-![layout](test1.png)
+![layout](test1.PNG)
 ****
 # **Answer**
 ## dialog.h
@@ -106,7 +106,7 @@ dialog::dialog(QWidget *parent):QWidget(parent)
 > # Results
 
 
-![layout](dialog1.png)
+![layout](dialog1.PNG)
 *** 
 ***
 # Nested Layouts
@@ -196,13 +196,13 @@ void dialog2 :: placeWidgets()
 > # Results
 
 
-![layout](dialog2.png)
+![layout](dialog2.PNG)
 *** 
 ***
 # Bug report Form
 > This example is taken from Qt Tutorial. You task is to create the following form to report a problem.
 
-![layout](exo33.png)
+![layout](exo33.PNG)
 
 # **Answer**
 ## exo3.h
@@ -305,7 +305,7 @@ void exo3::connexionwidgets(){}
 > # Results
 
 
-![layout](exo3.png)
+![layout](exo3.PNG)
 *** 
 ***
 # Grid Layout
@@ -317,7 +317,7 @@ void exo3::connexionwidgets(){}
 
 <br>
 
-![layout](tt4.png)
+![layout](tt4.PNG)
 
 # **Answer**
 ## dialog4.h
@@ -428,7 +428,7 @@ int main(int argc, char* argv[])
 > # Results
 
 
-![layout](diaog4.png)
+![layout](diaog4.PNG)
 
 
 
