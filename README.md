@@ -428,7 +428,7 @@ int main(int argc, char* argv[])
 > # Results
 
 
-![layout](diaog4.png)
+![layout](diaog4.PNG)
 
 
 
