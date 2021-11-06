@@ -114,7 +114,7 @@ dialog::dialog(QWidget *parent):QWidget(parent)
 
 + Here we show you a classic dialog from the book GB to search for a user
 > You do not have to code any functinality, just the form of the dialog.
-![layout](test2.png)
+![layout](test2.PNG)
 
 + In order to add a layout to a main one, you’ll have to use
   addLayout(layout)
